@@ -1,0 +1,94 @@
+.first{
+    background-color: rgb(236, 229, 229);   
+       float:right;
+       width: 300px;
+        height: 50px;
+        border: 2px solid rgb(240, 238, 232);
+        padding: 50px;
+        margin: 20px;
+        text-align: center;
+        margin-bottom: 50px;
+        position: absolute;
+        top: 7em;
+        right: 4em;
+        cursor:context-menu;  
+    }
+    .first:hover{
+        
+        border-color: blue;
+    }
+        
+    .button1{
+        cursor:pointer;
+        border: none;
+        background-color: transparent;
+        font-family: 'Times New Roman', Times, serif;
+        font-size:x-large;
+        font-weight: bold;
+        position: relative;
+        bottom: 145%;
+        right: 10%;
+       
+        
+       
+    }
+    .button1:hover{
+        color: blue;
+        text-underline-offset:initial;
+        text-decoration: underline;
+    }
+    
+    .second{
+        background-color: rgb(236, 229, 229);   
+           float:right;
+           width: 300px;
+            height: 50px;
+            border: 2px solid rgb(240, 238, 232);
+            padding: 50px;
+            margin: 20px;
+            text-align: center;
+            margin-bottom: 50px;
+            position: absolute;
+            top: 18em;
+            right: 4em;
+            cursor:context-menu;  
+        }
+        .second:hover{
+            
+            border-color: blue;
+        }
+            
+       
+        .third{
+            background-color: rgb(236, 229, 229);   
+               float:right;
+               width: 300px;
+                height: 50px;
+                border: 2px solid rgb(240, 238, 232);
+                padding: 50px;
+                margin: 20px;
+                text-align: center;
+                margin-bottom: 50px;
+                position: absolute;
+                top: 29em;
+                right: 4em;
+                cursor:context-menu;  
+            }
+            .third:hover{
+                
+                border-color: blue;
+            }
+            
+            .icon{
+                width: 50px;
+                height: 50px;
+                position: relative;
+                right: 45%;
+                background:  rgb(236, 229, 229);
+            }
+          .text{
+            position: relative;
+            bottom:185%;
+            font-size: 140%;
+            font-family:sans-serif;
+          }

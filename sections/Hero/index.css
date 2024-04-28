@@ -1,0 +1,30 @@
+body{
+    background-image: url('../public/background.png');
+  
+}
+.hero-image{
+position:absolute;
+ right: 45%;
+ top:19% ;
+ width: 500px;
+ height: 550px;
+ 
+ 
+}
+.hero{
+    text-align: center;
+    padding-bottom: 5%;
+    text-shadow: 10cap;
+    
+}
+h1{
+font-size: 200%;
+position: relative;
+top:20%;
+font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
